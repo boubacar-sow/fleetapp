@@ -35,6 +35,6 @@ public class Country {
     @Column(name = "continent")
     private String continent;
 
-    private List<State> states;
+
 
 }
